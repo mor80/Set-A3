@@ -54,6 +54,7 @@
      - Время выполнения стандартного MergeSort.
      - Время выполнения гибридного MergeSort.
    - Графики сохраняются в файлы `sorting_time_random.png`, `sorting_time_reversed.png`, `sorting_time_nearly_sorted.png`.
+   - Все графики представлены в папке Plots.
 
 ---
 
