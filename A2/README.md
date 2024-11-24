@@ -15,7 +15,7 @@
 - `results1.csv`: Содержит данные о времени выполнения стандартного MergeSort.
 - `results2.csv`: Содержит данные о времени выполнения гибридного MergeSort.
 
-Также в проекте представлен Python-скрипт для визуализации результатов в виде графиков.
+Также в проекте представлен Python-скрипт `A2.ipynb` для визуализации результатов в виде графиков.
 Ссылка на google colab: https://colab.research.google.com/drive/1qzb5839dsza1tvQ_sTWDLdU5XDIDNlia?usp=sharing
 
 ---
@@ -54,7 +54,7 @@
      - Время выполнения стандартного MergeSort.
      - Время выполнения гибридного MergeSort.
    - Графики сохраняются в файлы `sorting_time_random.png`, `sorting_time_reversed.png`, `sorting_time_nearly_sorted.png`.
-   - Все графики представлены в папке Plots.
+   - Все графики представлены в папке Plots и в файле `A2.ipynb`.
 
 ---
 
